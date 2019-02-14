@@ -1,0 +1,9 @@
+{
+  "name": "collection",
+  "projects": [
+    "swarm",
+    "bouncing",
+    "redVsBlue",
+    "connected"
+  ]
+}
